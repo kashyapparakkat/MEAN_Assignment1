@@ -1,0 +1,131 @@
+body{
+    background-size: cover;
+}
+
+header{
+    background-color: black;
+}
+
+form{
+
+    /*color: black;*/
+    /*border: 1px solid red;*/
+    /*padding: 10px;*/
+    /*margin-right: 50px;*/
+    /*background-color: beige;*/
+    /*height: 250px;*/
+    /*margin-top: 50px;*/
+    /*width: 200px;*/
+
+    background-color: white;
+    color: black;
+    position: relative;
+    /*height: 400px;*/
+    /*text-align:center;*/
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.formCss h2{
+    text-align:center;
+}
+
+
+.login h2{
+    text-align:center;
+}
+
+.login-cont{
+    position: relative;
+    margin-left: 35%;
+}
+
+.login-button {
+    position: relative;
+    margin-left: 45%;
+    width: 40%;
+}
+
+.login input{
+    height: 20px;
+    width: 50%;
+}
+
+.card{
+    width: 500px;
+    margin-left: 100px;
+    padding: 10px;
+}
+
+.card h5{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.card-body{
+    background-color: #cccccc;
+}
+
+.kl14{
+    padding: 10px;
+    margin: 10px;
+}
+
+.kl14-intro img{
+    width: 40%;
+    height: 10%;
+    /*margin-left: 500px;*/
+}
+
+
+.kl14-intro p{
+    /*margin-left: 500px;*/
+    margin-right: 500px;
+    font-size: large;
+    max-width:700px;
+    word-wrap:break-word;
+    /*display: block;*/
+}
+
+.kl14-intro h2{
+    margin-left: 750px;
+    margin-right: 500px;
+    display: block;
+}
+.kl14-intro p{
+    max-width:700px;
+    word-wrap:break-word;
+    font-size: 25px;
+}
+/*form div label{
+    color: white;
+}*/
+
+.kl14-desc h2{
+    padding: 100px;
+    margin-left: 650px;
+    /*margin-right: 500px;*/
+    display: block;
+}
+
+.kl14-touristPlace img{
+    width: 40%;
+    height: 10%;
+    /*margin-left: 500px;*/
+}
+
+.kl14-touristPlace p{
+    /*display: block;*/
+    max-width:700px;
+    word-wrap:break-word;
+    font-size: 20px;
+    /*color: red;*/
+}
+
+
